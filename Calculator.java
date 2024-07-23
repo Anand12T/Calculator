@@ -283,5 +283,6 @@ public class Calculator {
         lblNewLabel.setFont(new Font("Tahoma", Font.BOLD, 15));
         lblNewLabel.setBounds(112, 11, 115, 14);
         frame.getContentPane().add(lblNewLabel);
+        //End of the Code
     }
 }
